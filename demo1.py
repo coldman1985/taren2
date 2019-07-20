@@ -9,3 +9,4 @@ with open('network/dict.txt','r') as f:
             l.remove(l[0])
             s = ' '.join(l)
             print(s)
+#dfasfdsfds
